@@ -42,38 +42,10 @@ Each project sharpens real-world security skills — one milestone at a time. �
 
 | # | 🔐 Project | 🛠️ Skills | 📌 Status |
 |---|-----------|-----------|----------|
-| 01 | Password Strength Checker | Python, String Handling, Security Logic | ✅ Completed |
+| 01 | [Password Strength Checker](./project-1-password-checker) | Python, String Handling, Security Logic | ✅ Completed |
 | 02 | Coming Soon | To be announced | 🔒 Locked |
 | 03 | Coming Soon | To be announced | 🔒 Locked |
 | 04 | Coming Soon | To be announced | 🔒 Locked |
-
----
-
-## 🔍 Project 1 — Password Strength Checker
-
-### 📌 About
-A Python program that evaluates whether a password
-is **Weak**, **Medium**, or **Strong** based on security rules.
-
-### ✅ Features
-- Checks minimum length (8+ characters)
-- Detects uppercase letters
-- Detects numbers and special symbols
-- Displays clear strength result
-
-### 💻 How to Run
-```bash
-python3 project-1-password-checker/password_checker.py
-```
-
-### 🧪 Sample Output
-```
-Enter a password to check: Hello@123
-Password Strength: STRONG - Great password!
-
-Enter a password to check: hello
-Password Strength: WEAK - Too short (minimum 8 characters)
-```
 
 ---
 
